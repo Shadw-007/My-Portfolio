@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root{
+    --red: #ff0000;
+    --black: #000;
+    --cyan: #00ffff;
+    --white: #fff;
+    --light-bg: #eee;
+    --dark-bg: #36454f;
+    --border-bold: .5rem solid var(--black);
+    --border-light: .2rem solid var(--black);
+
+}
+
+*{
+    font-family: 'Rubik', sans-serif;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    outline: none; border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    color: var(--black);
+}
+
+*::selection{
+    background-color: var(--black);
+    color: var(--red);
+}
+
+*::-webkit-scrollbar{
+    height: .5rem;
+    width: 1rem;
+}
+
+*::-webkit-scrollbar-track{
+    background-color: transparent;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: var(--red);
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+
+}
+
+body{
+    overflow: hidden;
+    transition: .2s linear !important;
+}
+
+body.active{
+    padding-left: 35rem;
+}
+
+
+/* ------ Header section -------- */
+
+.header{
+    position: fixed;
+    top: 0; left: -35rem;
+    height: 100vh;
+    background-color: var(--dark-bg);
+    border-right: var(--border-bold);
+    width: 35rem;
+    padding: 3rem 2rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-flow: column;
+    transition: .2s linear !important;
+    text-align: center;
+}
+
+.header .logo{
+    text-transform: uppercase;
+    border-bottom: var(--border-bold);
+    font-weight: bolder;
+    font-size: 4.5rem;
+    color: var(--white);
+}
+
+.header .navbar{
+    width: 100%;
+}
+
+.header .navbar a{
+    display: block;
+    font-size: 2rem;
+    padding: 1.5rem;
+    margin: .5rem;
+    color: white;
+}
+
+.header .navbar a.active, 
+.header .navbar a:hover{
+    background-color: var(--red);
+    border-radius: .7rem;
+    transition: .85s linear !important;
+}
+
+.header .follow a{
+    font-size: 3rem;
+    margin: 0 1rem;
+    cursor: pointer;
+    transition: .85s linear !important;
+    color: var(--white);
+}
+
+.header .follow a:hover{
+    transform: rotate(360deg)
+}
+
+#menu-btn{
+    position: absolute;
+    top: 0; right: -5.5rem;
+    height: 4.5rem;
+    line-height: 4.5rem;
+    width: 5rem;
+    font-size: 2.5rem;
+    cursor: pointer;
+    background-color: var(--black);
+    color: var(--white);
+    border-radius: .2rem;
+}
+
+.header.active{
+    left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+/* ------ Media queries -------- */
+
+@media (max-width: 991px){
+
+    htm{
+        font-size: 55%;
+    }
+
+    body.active{
+        padding-left: 0;
+    }
+}
+
+@media (max-width: 450px){
+
+    htm{
+        font-size: 50%;
+    }
+
+    .header.active{
+        padding-top: 7rem;
+    }
+
+    #menu-btn.fa-times{
+        right: 0;
+    }
+
+}
