@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
 
-    <!-- font awesome cdn link -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+        <!-- box icons -->
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
     <!-- css file link -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/x-icon" href="images/logo1.jpg">
@@ -19,7 +20,7 @@
 
     <header class="header">
 
-        <div id="menu-btn" class="fas fa-bars"></div>
+        
 
         <a href="#home" class="logo">Portfolio</a>
 
@@ -31,34 +32,15 @@
             <a href="#contact">Contact</a>
         </nav>
 
-        <div class="follow">
-            <a href="#" class="fab fa-facebook-f"></a>
-            <a href="#" class="fab fa-twitter"></a>
-            <a href="#" class="fab fa-instagram"></a>
-            <a href="#" class="fab fa-linkedin"></a>
-            <a href="#" class="fab fa-github"></a>
-        </div>
-
+        
+        <div class="bx bx-moon" id="darkMode-icon"></div>
     </header>
 
     <!-- header section ends -->
 
     <!-- Home section starts -->
 
-    <section class="home" id="home">
-        
-    <div class="image">
-        <img src="images/cholwe.png" alt="portrait of Cholwe">
-    </div>
-
-    <div class="content">
-        <h3>Hi 👋🏾, I am Cholwe Muleya</h3>
-        <span>Web Developer & Database Administrator</span>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-            Consequuntur esse rem repudiandae et hic? Accusamus.</p>
-        <a href="#about" class="btn">About me</a>
-    </div>
-
+    
     </section>
 
     <!-- Home section ends -->
