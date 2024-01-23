@@ -63,6 +63,22 @@ body.active{
     text-align: center;
  }
 
+ .btn{
+    display: inline-block;
+    margin-top: 1rem;
+    cursor: pointer;
+    padding: 1rem 3rem;
+    border:var(--border-light);
+    font-size: 2rem;
+    border-radius: .5rem;
+ }
+
+
+ .btn:hover{
+    background-color: var(--black);
+    color: var(--white);
+    transition: .75s linear !important;
+ }
 
 /* ------ Header section -------- */
 
@@ -146,8 +162,55 @@ body.active{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    
+    gap: 2rem;
+    min-height: 100vh;
 }
+
+.home .image{
+    flex: 1 1 40rem;
+}
+
+.home .image img{
+    height: 45rem;
+    padding: 2rem;
+    border: var(--border-bold);
+    border-radius: .5rem;
+}
+
+.home .content{
+    flex: 1 1 40rem;
+}
+
+.home .content h3{
+    text-transform: uppercase;
+    font-size: 5rem;
+    margin-bottom: .5rem;
+}
+
+.home .content span{
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: var(--red);
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.home .content p{
+    font-size: 1.5rem;
+    line-height: 2;
+    padding: 1rem 0;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -179,6 +242,11 @@ body.active{
 
     #menu-btn.fa-times{
         right: 0;
+    }
+
+    .home .image img{
+        height: auto;
+        width: 100%;
     }
 
 }

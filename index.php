@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <!-- css file link -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="images/logo1.jpg">
 
 </head>
 <body>
@@ -47,11 +48,11 @@
     <section class="home" id="home">
         
     <div class="image">
-        <img src="images/cholwe1.jpg" alt="">
+        <img src="images/cholwe.png" alt="portrait of Cholwe">
     </div>
 
     <div class="content">
-        <h3>Hi, I am Cholwe Muleya</h3>
+        <h3>Hi 👋🏾, I am Cholwe Muleya</h3>
         <span>Web Developer & Database Administrator</span>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
             Consequuntur esse rem repudiandae et hic? Accusamus.</p>
