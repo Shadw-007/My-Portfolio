@@ -42,7 +42,25 @@
 
     <!-- header section ends -->
 
+    <!-- Home section starts -->
 
+    <section class="home" id="home">
+        
+    <div class="image">
+        <img src="images/cholwe1.jpg" alt="">
+    </div>
+
+    <div class="content">
+        <h3>Hi, I am Cholwe Muleya</h3>
+        <span>Web Developer & Database Administrator</span>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+            Consequuntur esse rem repudiandae et hic? Accusamus.</p>
+        <a href="#about" class="btn">About me</a>
+    </div>
+
+    </section>
+
+    <!-- Home section ends -->
 
 
 

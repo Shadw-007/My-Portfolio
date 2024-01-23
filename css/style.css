@@ -56,6 +56,7 @@ body.active{
     padding-left: 35rem;
 }
 
+ 
 
 
 /* ------ Header section -------- */
@@ -122,7 +123,7 @@ body.active{
     height: 4.5rem;
     line-height: 4.5rem;
     width: 5rem;
-    font-size: 2.5rem;
+    font-size: 2rem;
     cursor: pointer;
     background-color: var(--black);
     color: var(--white);
@@ -133,6 +134,8 @@ body.active{
     left: 0;
 }
 
+
+/* ------ Home section ------ */
 
 
 
@@ -146,7 +149,7 @@ body.active{
 
 @media (max-width: 991px){
 
-    htm{
+    html{
         font-size: 55%;
     }
 
@@ -157,7 +160,7 @@ body.active{
 
 @media (max-width: 450px){
 
-    htm{
+    html{
         font-size: 50%;
     }
 
