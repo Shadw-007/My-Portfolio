@@ -22,7 +22,7 @@
 
         
 
-        <a href="#home" class="logo">Portfolio</a>
+        <a href="#" class="logo">Portfolio</a>
 
         <nav class="navbar">
             <a href="#home" class="active">Home</a>
@@ -40,22 +40,59 @@
 
     <!-- Home section starts -->
 
-    
+    <section class="home" id="home">
+
+        <div class="content">
+            <h3>Hello 👋🏾, I am</h3>
+            <h1>Cholwe Muleya</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                Dolores et non ducimus unde, provident labore!</p>
+
+            <div class="social">
+                <a href="#"><i class='bx bxl-twitter' ></i></a>
+                <a href="#"><i class='bx bxl-linkedin-square' ></i></a>
+                <a href="#"><i class='bx bxl-instagram' ></i></a>
+                <a href="#"><i class='bx bxl-whatsapp' ></i></a>
+        </div>
+
+            <a href="#" class="btn">Download CV</a>
+        </div>
+
+
+        <div class="profession-container">
+            <div class="profession-box">
+                <div class="profession" style="--i:0;">
+                    <i class='bx bx-code-alt'></i>
+                    <h3>Web Devoper</h3>
+                </div>
+                <div class="profession" style="--i:1;">
+                    <i class='bx bx-data' ></i>
+                    <h3>Database Admin</h3>
+                </div>
+                <div class="profession" style="--i:2;">
+                    <i class='bx bx-laptop' ></i>
+                    <h3>Tech Enthusiast</h3>
+                </div>
+                <div class="profession" style="--i:3;">
+                    <i class='bx bx-terminal' ></i>
+                    <h3>Ethical Hacker</h3>
+                </div>
+
+
+                <div class="circle"></div>
+            </div>
+
+            <div class="overlay"></div>
+        </div>
+
+        <div class="home-img">
+            <img src="images/charlie.png" alt="">
+        </div>
     </section>
+    
+    
 
     <!-- Home section ends -->
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
