@@ -90,10 +90,23 @@
         </div>
     </section>
     
-    
-
     <!-- Home section ends -->
 
+    <!-- About section starts -->
+
+        <section class="about" id="about">
+
+            <div class="about-img">
+                <img src="images/cholwe1.png" alt="">
+            </div>
+
+            <div class="about-content">
+                
+            </div>
+
+        </section>
+
+    <!-- About section ends -->
 
 
 
