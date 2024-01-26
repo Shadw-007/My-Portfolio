@@ -117,9 +117,27 @@
 
     <!-- About seciton ends -->
 
-    <!--  -->
+    <!-- Skills section begins -->
 
+    <!-- Skills section ends -->
 
+    <section class="skills" id="skills">
+
+        <div class="skills-content">
+            <h1 class="heading"><span>S</span>kills</h1>
+
+            <div class="progress">
+                <div class="bar"><h3><span>HTML</span> <span>95%</span></h3></div>
+                <div class="bar"><h3><span>CSS</span> <span>90%</span></h3></div>
+                <div class="bar"><h3><span>JavaScript</span><span>75%</span></h3></div>
+                <div class="bar"><h3><span>PHP</span> <span>85%</span></h3></div>
+                <div class="bar"><h3><span>SQL</span> <span>88%</span></h3></div>
+                <div class="bar"><h3><span>C++</span> <span>65%</span></h3></div>
+                <div class="bar"><h3><span>Python</span> <span>60%</span></h3></div>
+            </div>
+        </div>
+
+    </section>
 
 
 <!-- js file link -->

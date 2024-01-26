@@ -301,4 +301,72 @@ span{
     margin: 2rem 3rem;
 }
 
+/* ------ Skills section ------ */
+
+.skills{
+    margin: 3rem 0;
+}
+
+.skills-content .progress{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.skills-content .progress .bar{
+    margin: 1rem auto;
+    width: 52rem;
+    border: solid 2px var(--main-color);
+    border-radius: .5rem;
+    padding: .5rem;
+    box-shadow: 0 .2rem .5rem var(--shadow-color);
+}
+
+.skills-content .progress .bar h3{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--main-color);
+    font-size: 2rem;
+    padding: .3rem;
+    border-radius: .5rem;
+}
+
+.skills-content .progress .bar span{
+    color: var(--white-color);
+    font-weight: normal;
+}
+
+.skills-content .progress .bar:nth-child(1) h3{
+    width: 95%;
+}
+
+.skills-content .progress .bar:nth-child(2) h3{
+    width: 90%;
+}
+
+.skills-content .progress .bar:nth-child(3) h3{
+    width: 75%;
+}
+
+.skills-content .progress .bar:nth-child(4) h3{
+    width: 85%;
+}
+
+.skills-content .progress .bar:nth-child(5) h3{
+    width: 88%;
+}
+
+.skills-content .progress .bar:nth-child(6) h3{
+    width: 65%;
+}
+
+.skills-content .progress .bar:nth-child(7) h3{
+    width: 60%;
+}
+
+
+
+
 
