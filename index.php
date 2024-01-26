@@ -100,13 +100,21 @@
                 <img src="images/cholwe1.png" alt="">
             </div>
 
-            <div class="about-content">
-                
-            </div>
 
+            <div class="about-content">
+                <h2 class="heading">About <span>Me</span></h2>
+                <h3>Hi, I'm Here To Help You On Your Next Project!</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                    Exercitationem quas eius aperiam ipsa quisquam veniam 
+                    rerum ab architecto blanditiis voluptatum, deserunt 
+                    labore quia tempora porro recusandae, voluptates tenetur 
+                    saepe numquam velit ea? Illo, maxime quod?</p>
+                <a href="#" class="btn">Read More</a>
+            </div>
         </section>
 
-    <!-- About section ends -->
+
+    <!-- About seciton ends -->
 
 
 
