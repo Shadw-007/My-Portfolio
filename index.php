@@ -27,8 +27,8 @@
         <nav class="navbar">
             <a href="#home" class="active">Home</a>
             <a href="#about">About</a>
-            <a href="#skills">Skills</a>
             <a href="#services">Services</a>
+            <a href="#skills">Skills</a>
             <a href="#portfolio">Portfolio</a>
             <a href="#contact">Contact</a>
         </nav>
@@ -38,7 +38,7 @@
     </header>
 
     <!-- header section ends -->
-
+        
     <!-- Home section starts -->
 
     <section class="home" id="home">
@@ -64,7 +64,7 @@
             <div class="profession-box">
                 <div class="profession" style="--i:0;">
                     <i class='bx bx-code-alt'></i>
-                    <h3>Web Devoper</h3>
+                    <h3>Web Developer</h3>
                 </div>
                 <div class="profession" style="--i:1;">
                     <i class='bx bx-data' ></i>
@@ -87,7 +87,7 @@
         </div>
 
         <div class="home-img">
-            <img src="images/charlie.png" alt="">
+            <img src="images/charlie.png" alt="home image">
         </div>
     </section>
     
@@ -98,7 +98,7 @@
         <section class="about" id="about">
 
             <div class="about-img">
-                <img src="images/cholwe1.png" alt="">
+                <img src="images/cholwe1.png" alt="about image">
             </div>
 
 
@@ -117,14 +117,51 @@
 
     <!-- About seciton ends -->
 
+     <!-- Services section begins -->
+        <section class="services" id="services">
+            
+            <h2 class="heading">My <span>Services</span></h2>
+
+
+            <div class="services-container">
+                <div class="services-box">
+                    <i class="bx bx-code-alt"></i>
+                    <h3>Web Development</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur
+                         adipisicing elit. Eius necessitatibus
+                          eveniet sed, accusantium nobis 
+                          corporis?</p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+
+                <div class="services-box">
+                    <i class="bx bx-data"></i>
+                    <h3>Database Administration</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur
+                         adipisicing elit. Eius necessitatibus
+                          eveniet sed, accusantium nobis 
+                          corporis?</p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+
+                <div class="services-box">
+                    <i class="bx bx-terminal"></i>
+                    <h3>Penetration Testing</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur
+                         adipisicing elit. Eius necessitatibus
+                          eveniet sed, accusantium nobis 
+                          corporis?</p>
+                    <a href="#" class="btn">Read More</a>
+                </div>
+            </div>
+        </section>
+    <!-- Services section ends -->
+
     <!-- Skills section begins -->
-
-    <!-- Skills section ends -->
-
-    <section class="skills" id="skills">
+        <section class="skills" id="skills">
 
         <div class="skills-content">
-            <h1 class="heading"><span>S</span>kills</h1>
+            <h1 class="heading">My <span>Skills</span></h1>
 
             <div class="progress">
                 <div class="bar"><h3><span>HTML</span> <span>95%</span></h3></div>
@@ -138,6 +175,11 @@
         </div>
 
     </section>
+    <!-- Skills section ends -->
+
+    
+
+   
 
 
 <!-- js file link -->
