@@ -147,7 +147,7 @@
                 <div class="services-box">
                     <i class="bx bx-terminal"></i>
                     <h3>Penetration Testing</h3>
-                    <small>(Coming Soon)</small>
+                    <small>(Coming Soon!)</small>
                     <p>Lorem ipsum dolor sit, amet consectetur
                          adipisicing elit. Eius necessitatibus
                           eveniet sed, accusantium nobis 
@@ -178,7 +178,53 @@
     </section>
     <!-- Skills section ends -->
 
-    
+    <!-- Portfolio section starts -->
+
+        <section class="portfolio" id="portfolio">
+            <h2 class="heading">Latest <span>Projects</span></h2>
+
+            <div class="portfolio-container">
+                <div class="portfolio-box">
+                    <img src="images/webdev.jpg" alt="">
+
+                    <div class="portfolio-layer">
+                        <h4>Web Development</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur 
+                            adipisicing elit. Fuga, optio quae nesciunt 
+                            blanditiis quas odio.</p>
+                        <a href="#"><i class='bx bx-link-external'></i></a>
+                    </div>
+                </div>
+
+                <div class="portfolio-box">
+                    <img src="images/data.jpg" alt="">
+
+                    <div class="portfolio-layer">
+                        <h4>Database Admin</h4>
+                        <small>(Coming Soon!)</small>
+                        <p>Lorem ipsum dolor sit amet consectetur 
+                            adipisicing elit. Fuga, optio quae nesciunt 
+                            blanditiis quas odio.</p>
+                        <a href="#"><i class='bx bx-link-external'></i></a>
+                    </div>
+                </div>
+
+                <div class="portfolio-box">
+                    <img src="images/pentest.jpg" alt="">
+
+                    <div class="portfolio-layer">
+                        <h4>Pen Testing</h4>
+                        <small>(Coming Soon!)</small>
+                        <p>Lorem ipsum dolor sit amet consectetur 
+                            adipisicing elit. Fuga, optio quae nesciunt 
+                            blanditiis quas odio.</p>
+                        <a href="#"><i class='bx bx-link-external'></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <!-- Portfolio section ends -->
 
    
 
