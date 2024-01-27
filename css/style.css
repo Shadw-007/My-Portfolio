@@ -348,6 +348,11 @@ span{
 
 }
 
+.services small{
+    font-size: 1rem;
+    color: var(--main-color);
+}
+
 .services-box h3:hover{
     color: var(--main-color);
 }
@@ -362,8 +367,7 @@ span{
 /* ------ Skills section ------ */
 
 .skills{
-    margin: 3rem 0;
-    
+    margin: 3rem 0; 
 }
 
 .skills-content .progress{
@@ -371,9 +375,7 @@ span{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-top: 1rem;
-    min-height: auto;
-    padding-bottom: 7rem;
+    margin-top: 2rem;
 }
 
 .skills-content .progress .bar{

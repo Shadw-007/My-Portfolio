@@ -147,6 +147,7 @@
                 <div class="services-box">
                     <i class="bx bx-terminal"></i>
                     <h3>Penetration Testing</h3>
+                    <small>(Coming Soon)</small>
                     <p>Lorem ipsum dolor sit, amet consectetur
                          adipisicing elit. Eius necessitatibus
                           eveniet sed, accusantium nobis 
