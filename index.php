@@ -185,6 +185,47 @@
 
             <div class="portfolio-container">
                 <div class="portfolio-box">
+                    <img src="images/logistics.heic" alt="">
+
+                    <div class="portfolio-layer">
+                        <h4>Logistics Company</h4>
+                        <small>(To be Launched!)</small>
+                        <p>Lorem ipsum dolor sit amet consectetur 
+                            adipisicing elit. Fuga, optio quae nesciunt 
+                            blanditiis quas odio.</p>
+                        <a href="#"><i class='bx bx-link-external'></i></a>
+                    </div>
+                </div>
+
+                <div class="portfolio-box">
+                    <img src="images/mobile.jpg" alt="">
+
+                    <div class="portfolio-layer">
+                        <h4>Mobile Apps Dev</h4>
+                        <small>(Coming soon!)</small>
+                        <p>Lorem ipsum dolor sit amet consectetur 
+                            adipisicing elit. Fuga, optio quae nesciunt 
+                            blanditiis quas odio.</p>
+                        <a href="#"><i class='bx bx-link-external'></i></a>
+                    </div>
+                </div>
+
+                <div class="portfolio-box">
+                    <img src="images/media.heic" alt="">
+
+                    <div class="portfolio-layer">
+                        <h4>Media Company</h4>
+                        <small>(To be Launched!)</small>
+                        <p>Lorem ipsum dolor sit amet consectetur 
+                            adipisicing elit. Fuga, optio quae nesciunt 
+                            blanditiis.</p>
+                        <a href="#"><i class='bx bx-link-external'></i></a>
+                    </div>
+                </div>
+
+
+
+                <div class="portfolio-box">
                     <img src="images/webdev.jpg" alt="">
 
                     <div class="portfolio-layer">
