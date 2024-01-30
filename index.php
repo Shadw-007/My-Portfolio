@@ -185,7 +185,7 @@
 
             <div class="portfolio-container">
                 <div class="portfolio-box">
-                    <img src="images/logistics.heic" alt="">
+                    <img src="images/logistics.png" alt="">
 
                     <div class="portfolio-layer">
                         <h4>Logistics Company</h4>
@@ -211,7 +211,7 @@
                 </div>
 
                 <div class="portfolio-box">
-                    <img src="images/media.heic" alt="">
+                    <img src="images/media.png" alt="">
 
                     <div class="portfolio-layer">
                         <h4>Media Company</h4>
@@ -267,7 +267,28 @@
 
     <!-- Portfolio section ends -->
 
-   
+   <!-- Contact section starts -->
+
+        <section class="contact" id="contact">
+            <h2 class="heading">Contact <span>Me</span></h2>
+
+            <form action="#">
+                <div class="input-box">
+                    <input type="text" placeholder="Full Name....">
+                    <input type="email" placeholder="Email Address...">
+                </div>
+
+                <div class="input-box">
+                    <input type="number" placeholder="Phone Number...">
+                    <input type="text" placeholder="Subject...">
+                </div>
+
+                <textarea name="" id="" cols="30" rows="10" placeholder="Your Message Here..."></textarea>
+                <input type="submit" value="Send Message" class="btn">
+            </form>
+        </section>
+
+   <!-- Contact section ends -->
 
 
 <!-- js file link -->
