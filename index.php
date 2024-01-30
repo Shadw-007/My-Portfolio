@@ -294,7 +294,7 @@
 
     <footer class="footer">
         <div class="footer-text">
-            <p>Copyright &copy; 2024 by Cholwe Muleya | All Rights Reserved</p>
+            <p>Copyright &copy; 2024 by Cholwe Muleya | All Rights Reserved.</p>
         </div>
 
         <div class="footer-iconTop">
