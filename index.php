@@ -290,6 +290,20 @@
 
    <!-- Contact section ends -->
 
+   <!-- Footer section starts -->
+
+    <footer class="footer">
+        <div class="footer-text">
+            <p>Copyright &copy; 2024 by Cholwe Muleya | All Rights Reserved</p>
+        </div>
+
+        <div class="footer-iconTop">
+            <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
+        </div>
+    </footer>
+
+   <!-- Footer section ends -->
+
 
 <!-- js file link -->
 
