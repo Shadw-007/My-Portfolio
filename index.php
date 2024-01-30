@@ -35,6 +35,8 @@
 
         
         <div class="bx bx-moon" id="darkMode-icon"></div>
+
+        <div class="bx bx-menu" id="menu-icon"></div>
     </header>
 
     <!-- header section ends -->
