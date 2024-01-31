@@ -65,6 +65,6 @@ window.onscroll = () => {
 });
 
 ScrollReveal().reveal('.content, .heading', { origin: 'top' });
-ScrollReveal().reveal('.home-img img, .skills-content .progress, .services-container, .portfolio-box, .contact form', { origin: 'bottom' });
+ScrollReveal().reveal('.home-img img, .edu-exp-img img, .skills-content .progress, .services-container, .portfolio-box, .contact form', { origin: 'bottom' });
 ScrollReveal().reveal('.content h1, .about-img img', { origin: 'left'});
 ScrollReveal().reveal('.content h3, .content p, .about-content', { origin: 'right' });

@@ -22,7 +22,7 @@
 
         
 
-        <a href="#" class="logo">Portfolio</a>
+        <a href="#home" class="logo">Portfolio</a>
 
         <nav class="navbar">
             <a href="#home" class="active">Home</a>
@@ -48,8 +48,8 @@
         <div class="content">
             <h3>Hello 👋🏾, I am</h3>
             <h1>Cholwe Muleya</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                Dolores et non ducimus unde, provident labore!</p>
+            <p>Empowering the future with keystrokes, shaping tomorrow through web development and ethical hacking – 
+            where innovation meets integrity in the digital realm.</p>
 
             <div class="social">
                 <a href="https://twitter.com/cholwe_muleya" target="_blank"><i class='bx bxl-twitter' ></i></a>
@@ -107,12 +107,18 @@
             <div class="about-content">
                 <h2 class="heading">About <span>Me</span></h2>
                 <h3>Hi, I'm Here To Help You On Your Next Project!</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Exercitationem quas eius aperiam ipsa quisquam veniam 
-                    rerum ab architecto blanditiis voluptatum, deserunt 
-                    labore quia tempora porro recusandae, voluptates tenetur 
-                    saepe numquam velit ea? Illo, maxime quod?</p>
-                <a href="#" class="btn">Read More</a>
+                <p>Dedicated and results-driven web developer with a proven 
+                    track record of delivering high-quality projects on time 
+                    and exceeding client expectations. Armed with a strong 
+                    work ethic, I thrive in dynamic environments and leverage 
+                    effective communication skills honed through international
+                    exposure. Collaborative by nature, I excel in team 
+                    settings, fostering synergy to achieve collective goals. 
+                    My commitment to excellence, coupled with a deep 
+                    understanding of web development technologies, positions 
+                    me as a valuable asset in creating innovative and 
+                    impactful digital solutions.</p>
+                <a href="education_experience.php" class="btn">Learn More</a>
             </div>
         </section>
 
