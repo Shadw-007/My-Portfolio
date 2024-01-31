@@ -84,7 +84,7 @@
         </div>
 
         <div class="edu-exp-img">
-            <img src="images/charlie.png" alt="home image">
+            <img src="images/cholwe3.png" alt="education image">
         </div>
     </section>
     
