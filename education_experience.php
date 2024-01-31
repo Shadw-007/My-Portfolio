@@ -46,10 +46,36 @@
     <section class="edu-exp" id="edu-exp">
 
         <div class="content">
-            <h3>Hello 👋🏾, I am</h3>
-            <h1>Cholwe Muleya</h1>
-            <p>Empowering the future with keystrokes, shaping tomorrow through web development and ethical hacking – 
-            where innovation meets integrity in the digital realm.</p>
+            <h3>Experience</h3>
+            <div class="box">
+                <span>(02/2023-Current)</span>
+                <h4>Co-Chief Operating Offer | Scarlet Vision - Ndola, Zambia</h4>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                </ul>
+            </div>
+
+            <div class="box">
+                <span>(01/2021-Current)</span>
+                <h4>Web Developer | Freelance - Zambia </h4>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                </ul>
+            </div>
+
+            <div class="box">
+                <span>(02/2023-12/2023)</span>
+                <h4>Chief Organiser | Northern Vision - Ndola, Zambia </h4>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                </ul>
+            </div>
  
         </div>
 
@@ -63,17 +89,17 @@
                 <div class="profession" style="--i:1;">
                     <i class='bx bxs-graduation'></i>
                     <h3>Northrise University</h3>
-                    <small>2020-2023</small>
+                    <small>2020-2023: Web & Software Development (Bachelors)</small>
                 </div>
                 <div class="profession" style="--i:2;">
                     <i class='bx bxs-graduation'></i>
                     <h3>Fontys University</h3>
-                    <small>2022-2023</small>
+                    <small>2022-2023: International Business (Minor)</small>
                 </div>
                 <div class="profession" style="--i:3;">
                     <i class='bx bxs-graduation'></i>
                     <h3>Budapest Uni</h3>
-                    <small>2022-2022</small>
+                    <small>2022-2022: Foresight Project (Exchange Programme)</small>
                 </div>
 
 
@@ -84,7 +110,7 @@
         </div>
 
         <div class="edu-exp-img">
-            <img src="images/cholwe3.png" alt="education image">
+            <img src="images/edu-exp.jpg" alt="education image">
         </div>
     </section>
     
@@ -99,7 +125,7 @@
         </div>
 
         <div class="footer-iconTop">
-            <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
+            <a href="#edu-exp"><i class='bx bx-up-arrow-alt'></i></a>
         </div>
     </footer>
 

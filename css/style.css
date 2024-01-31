@@ -660,10 +660,23 @@ section{
     max-width: 44rem;
 }
 
+.content .box{
+    margin: 2rem;
+}
+
 .content h3{
     font-size: 3.2rem;
     font-weight: 700;
     line-height: 3;
+}
+
+.content h4{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.content ul li{
+    font-size: 1.6rem;
 }
 
 .content h1{
@@ -743,7 +756,8 @@ section{
 }
 
 .profession-box .profession small{
-    margin-top: .5rem;
+    margin-top: .6rem;
+    font-size: 1rem;
 }
 
 @keyframes professionRotate{
@@ -826,10 +840,11 @@ section{
     position: absolute;
     bottom: 0;
     right: 0;
-    height: 80%;
+    height: 37%;
     width: auto;
     pointer-events: none;
-    margin-right: .2rem;
+    margin-right: -7rem;
+    margin-bottom: 22rem;
   }
 
 /* ------- Breakpoints -------- */
@@ -920,6 +935,7 @@ section{
 
     .edu-exp .content{
         max-width: 50rem;
+        font-size: 40%;
     }
 
     .edu-exp .profession-container .profession-box{
@@ -1010,8 +1026,20 @@ section{
         text-align: center;
     }
 
+
     .content h3{
         font-size: 2.6rem;
+        margin-bottom: -2rem;
+        margin-top: -6rem;
+    }
+
+    .content h4{
+        font-size: 1.4rem;
+    }
+
+
+    .content ul li{
+        font-size: 1.2rem;
     }
 
     .content h1{
