@@ -52,13 +52,13 @@
                 Dolores et non ducimus unde, provident labore!</p>
 
             <div class="social">
-                <a href="https://twitter.com/cholwe_muleya" target="_blank"><i class='bx bxl-twitter' ></i></a>
-                <a href="https://www.linkedin.com/in/cholwe-muleya-198a861b2/" target="_blank"><i class='bx bxl-linkedin-square' ></i></a>
-                <a href="https://www.instagram.com/charlie_m_kirk/" target="_blank"><i class='bx bxl-instagram' ></i></a>
-                <a href="https://github.com/Shadw-007" target="_blank"><i class='bx bxl-github'></i></a>
+                <a href="#"><i class='bx bxl-twitter' ></i></a>
+                <a href="#"><i class='bx bxl-linkedin-square' ></i></a>
+                <a href="#"><i class='bx bxl-instagram' ></i></a>
+                <a href="#"><i class='bx bxl-whatsapp' ></i></a>
         </div>
 
-            <a href="cv/Cholwe_Muleya_Criteria_Vitae.pdf" class="btn" download>Download CV</a>
+            <a href="#" class="btn" download>Download CV</a>
         </div>
 
 
