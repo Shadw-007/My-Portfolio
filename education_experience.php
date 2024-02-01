@@ -47,33 +47,37 @@
 
         <div class="content">
             <h3>Experience</h3>
+            <p>Kindly refer to my Criteria Vitae for full details </p>
             <div class="box">
-                <span>(02/2023-Current)</span>
+                <span>(02/2023 - Current)</span>
                 <h4>Co-Chief Operating Offer | Scarlet Vision - Ndola, Zambia</h4>
                 <ul>
-                    <li>Lorem ipsum dolor sit amet.</li>
-                    <li>Lorem ipsum dolor sit amet.</li>
-                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Negotiating contracts and agreements to secure favourable
+                        terms and maximise profits
+                    </li>
+                    <li>Overseeing day-to-day operations for smooth operation of
+                        the company
+                    </li>
                 </ul>
             </div>
 
             <div class="box">
-                <span>(01/2021-Current)</span>
+                <span>(01/2021 - Current)</span>
                 <h4>Web Developer | Freelance - Zambia </h4>
                 <ul>
-                    <li>Lorem ipsum dolor sit amet.</li>
-                    <li>Lorem ipsum dolor sit amet.</li>
-                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Running debugging tools to eliminate flaws and glitches prior tools
+                        pblishing
+                    </li>
+                    <li>Coding websites using HTML, CSS, JavaScript, and PHP languages</li>
                 </ul>
             </div>
 
             <div class="box">
-                <span>(02/2023-12/2023)</span>
-                <h4>Chief Organiser | Northern Vision - Ndola, Zambia </h4>
+                <span>(11/2021 - 12/2022)</span>
+                <h4>Sports Coordinator | Northrise University - Ndola, Zambia </h4>
                 <ul>
-                    <li>Lorem ipsum dolor sit amet.</li>
-                    <li>Lorem ipsum dolor sit amet.</li>
-                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Introduced female footbal team to university</li>
+                    <li>Successfully hosted sports tournament against 3 unversities</li>
                 </ul>
             </div>
  
@@ -110,7 +114,7 @@
         </div>
 
         <div class="edu-exp-img">
-            <img src="images/edu-exp.jpg" alt="education image">
+            <img src="images/edu-exp1.png" alt="education image">
         </div>
     </section>
     

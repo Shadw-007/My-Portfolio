@@ -664,15 +664,25 @@ section{
     margin: 2rem;
 }
 
+.box span{
+    font-size: 1.2rem;
+}
+
 .content h3{
     font-size: 3.2rem;
     font-weight: 700;
     line-height: 3;
+    margin-bottom: -2rem;
+    margin-top: -3rem;
 }
 
 .content h4{
     font-size: 2rem;
     margin-bottom: 1rem;
+}
+
+.content p{
+    font-size: 1.6rem;
 }
 
 .content ul li{
@@ -840,10 +850,10 @@ section{
     position: absolute;
     bottom: 0;
     right: 0;
-    height: 37%;
+    height: 55%;
     width: auto;
     pointer-events: none;
-    margin-right: -7rem;
+    margin-right: -1rem;
     margin-bottom: 22rem;
   }
 
@@ -1031,6 +1041,10 @@ section{
         font-size: 2.6rem;
         margin-bottom: -2rem;
         margin-top: -6rem;
+    }
+
+    .box span{
+        font-size: 80%;
     }
 
     .content h4{

@@ -58,7 +58,7 @@
                 <a href="https://github.com/Shadw-007" target="_blank"><i class='bx bxl-github'></i></a>
         </div>
 
-            <a href="cv/Cholwe_Muleya_Criteria_Vitae.pdf" class="btn" download>Download CV</a>
+            <a href="cv/Cholwe_Muleya_CV.pdf" class="btn" download>Download CV</a>
         </div>
 
 
