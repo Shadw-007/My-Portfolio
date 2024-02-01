@@ -135,32 +135,37 @@
                 <div class="services-box">
                     <i class="bx bx-code-alt"></i>
                     <h3>Web Development</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur
-                         adipisicing elit. Eius necessitatibus
-                          eveniet sed, accusantium nobis 
-                          corporis?</p>
-                    <a href="#" class="btn">Read More</a>
+                    <p>Bringing a blend of technical expertise and creative 
+                        problem-solving to the table. Proficient in a diverse range 
+                        of programming languages and frameworks, I specialize 
+                        in crafting robust and scalable web solutions. 
+                        With a keen eye for detail and a passion for user-centric design, 
+                        I strive to deliver not just functional websites, but exceptional 
+                        digital experiences.</p>
                 </div>
 
                 <div class="services-box">
                     <i class="bx bx-data"></i>
                     <h3>Database Administration</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur
-                         adipisicing elit. Eius necessitatibus
-                          eveniet sed, accusantium nobis 
-                          corporis?</p>
-                    <a href="#" class="btn">Read More</a>
+                    <p> Bringing a wealth of expertise and dedication to ensuring the seamless 
+                        management and optimization of your data infrastructure. Proficient in 
+                        designing, implementing, and maintaining robust database systems, 
+                        I specialize in enhancing performance, scalability, and security.
+                        Partner with me to unlock the full potential of your data assets, with a 
+                        focus on precision, security, and performance in every aspect of database 
+                        administration.</p>
                 </div>
 
                 <div class="services-box">
                     <i class="bx bx-terminal"></i>
                     <h3>Penetration Testing</h3>
                     <small>(Coming Soon!)</small>
-                    <p>Lorem ipsum dolor sit, amet consectetur
-                         adipisicing elit. Eius necessitatibus
-                          eveniet sed, accusantium nobis 
-                          corporis?</p>
-                    <a href="#" class="btn">Read More</a>
+                    <p>Bringing a comprehensive approach to fortifying your digital defenses. My expertise 
+                        lies in proactively identifying and addressing vulnerabilities in your 
+                        systems, applications, and networks, ensuring they withstand the 
+                        ever-evolving threat landscape. With a methodical and ethical hacking 
+                        mindset, I conduct thorough assessments to expose potential weaknesses 
+                        and provide actionable insights for remediation.</p>
                 </div>
             </div>
         </section>
@@ -196,25 +201,27 @@
                     <img src="images/logistics.png" alt="">
 
                     <div class="portfolio-layer">
-                        <h4>Logistics Company</h4>
+                        <h4>Transportation Company</h4>
                         <small>(To be Launched!)</small>
-                        <p>Lorem ipsum dolor sit amet consectetur 
-                            adipisicing elit. Fuga, optio quae nesciunt 
-                            blanditiis quas odio.</p>
-                        <a href="#"><i class='bx bx-link-external'></i></a>
+                        <p>This is a project focused on a future project that I 
+                            would like to implement when the time presents itself. 
+                            This is a website focused on a bus transportation company 
+                            which will allow customers to book their trips online, make 
+                            payments, get notified of any promotions as well as stay up 
+                            to date with the latest news that the bus company has to offer!</p>
+                        <a href="https://github.com/Shadw-007/LuCho-Motorways" target="_blank"><i class='bx bx-link-external'></i></a>
                     </div>
                 </div>
 
                 <div class="portfolio-box">
-                    <img src="images/mobile.jpg" alt="">
+                    <img src="images/travel.png" alt="">
 
                     <div class="portfolio-layer">
-                        <h4>Mobile Apps Dev</h4>
-                        <small>(Coming soon!)</small>
-                        <p>Lorem ipsum dolor sit amet consectetur 
-                            adipisicing elit. Fuga, optio quae nesciunt 
-                            blanditiis quas odio.</p>
-                        <a href="#"><i class='bx bx-link-external'></i></a>
+                        <h4>Travel Agency</h4>
+                        <p>This is a website I plan to develop further as I work on my Travel 
+                            agency project. I am excited for it as this is something I did a 
+                            while back but I get to continue working on it to make it better!</p>
+                        <a href="https://best-travel-and-tours.netlify.app" target="_blank"><i class='bx bx-link-external'></i></a>
                     </div>
                 </div>
 
@@ -224,24 +231,24 @@
                     <div class="portfolio-layer">
                         <h4>Media Company</h4>
                         <small>(To be Launched!)</small>
-                        <p>Lorem ipsum dolor sit amet consectetur 
-                            adipisicing elit. Fuga, optio quae nesciunt 
-                            blanditiis.</p>
-                        <a href="#"><i class='bx bx-link-external'></i></a>
+                        <p>This project focused on creating a website for a media company. 
+                            It outlined the services they offered and also allowed for interested 
+                            individuals to get in contact with the company. Another old project I 
+                            wish to develop further.</p>
+                        <a href="https://github.com/Shadw-007/Media-Website" target="_blank"><i class='bx bx-link-external'></i></a>
                     </div>
                 </div>
 
 
 
                 <div class="portfolio-box">
-                    <img src="images/webdev.jpg" alt="">
+                    <img src="images/mobile.jpg" alt="">
 
                     <div class="portfolio-layer">
-                        <h4>Web Development</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur 
-                            adipisicing elit. Fuga, optio quae nesciunt 
-                            blanditiis quas odio.</p>
-                        <a href="#"><i class='bx bx-link-external'></i></a>
+                        <h4>Mobile App Development</h4>
+                        <small>(Coming Soon!)</small>
+                        <p>Watch this space!</p>
+                        <a href="#portfolio"><i class='bx bx-link-external'></i></a>
                     </div>
                 </div>
 
@@ -251,10 +258,8 @@
                     <div class="portfolio-layer">
                         <h4>Database Admin</h4>
                         <small>(Coming Soon!)</small>
-                        <p>Lorem ipsum dolor sit amet consectetur 
-                            adipisicing elit. Fuga, optio quae nesciunt 
-                            blanditiis quas odio.</p>
-                        <a href="#"><i class='bx bx-link-external'></i></a>
+                        <p>Watch this space!</p>
+                        <a href="#portfolio"><i class='bx bx-link-external'></i></a>
                     </div>
                 </div>
 
@@ -264,10 +269,8 @@
                     <div class="portfolio-layer">
                         <h4>Pen Testing</h4>
                         <small>(Coming Soon!)</small>
-                        <p>Lorem ipsum dolor sit amet consectetur 
-                            adipisicing elit. Fuga, optio quae nesciunt 
-                            blanditiis quas odio.</p>
-                        <a href="#"><i class='bx bx-link-external'></i></a>
+                        <p>Watch this space!</p>
+                        <a href="#portfolio"><i class='bx bx-link-external'></i></a>
                     </div>
                 </div>
             </div>
@@ -282,16 +285,16 @@
 
             <form action="#">
                 <div class="input-box">
-                    <input type="text" placeholder="Full Name....">
-                    <input type="email" placeholder="Email Address...">
+                    <input type="text" placeholder="Full Name...." required>
+                    <input type="email" placeholder="Email Address..." required>
                 </div>
 
                 <div class="input-box">
-                    <input type="number" placeholder="Phone Number...">
-                    <input type="text" placeholder="Subject...">
+                    <input type="number" placeholder="Phone Number..." required>
+                    <input type="text" placeholder="Subject..." required>
                 </div>
 
-                <textarea name="" id="" cols="30" rows="10" placeholder="Your Message Here..."></textarea>
+                <textarea name="" id="" cols="30" rows="10" placeholder="Your Message Here..." required></textarea>
                 <input type="submit" value="Send Message" class="btn">
             </form>
         </section>
