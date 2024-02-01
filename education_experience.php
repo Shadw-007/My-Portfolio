@@ -88,7 +88,7 @@
             <div class="profession-box">
                 <div class="profession" style="--i:0;">
                     <i class='bx bxs-school' ></i>
-                    <h3>Universities</h3>
+                    <h3>Education</h3>
                 </div>
                 <div class="profession" style="--i:1;">
                     <i class='bx bxs-graduation'></i>
