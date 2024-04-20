@@ -182,9 +182,11 @@
                 <div class="bar"><h3><span>CSS</span> <span>90%</span></h3></div>
                 <div class="bar"><h3><span>JavaScript</span><span>75%</span></h3></div>
                 <div class="bar"><h3><span>PHP</span> <span>85%</span></h3></div>
-                <div class="bar"><h3><span>SQL</span> <span>88%</span></h3></div>
+                <div class="bar"><h3><span>Laravel</span> <span>60%</span></h3></div>
                 <div class="bar"><h3><span>C++</span> <span>65%</span></h3></div>
                 <div class="bar"><h3><span>Python</span> <span>60%</span></h3></div>
+                <div class="bar"><h3><span>SQL</span> <span>88%</span></h3></div>
+
             </div>
         </div>
 
@@ -198,12 +200,12 @@
 
             <div class="portfolio-container">
                 <div class="portfolio-box">
-                    <img src="images/logistics.png" alt="">
+                    <img src="images/lucho.png" alt="">
 
                     <div class="portfolio-layer">
-                        <h4>Transportation Company</h4>
+                        <h4>LuCho Motorways</h4>
                         <small>(To be Launched!)</small>
-                        <p>This is a project focused on a future project that I 
+                        <p>This is a project focused on a future idea that I 
                             would like to implement when the time presents itself. 
                             This is a website focused on a bus transportation company 
                             which will allow customers to book their trips online, make 
@@ -214,10 +216,10 @@
                 </div>
 
                 <div class="portfolio-box">
-                    <img src="images/travel.png" alt="">
+                    <img src="images/btt.png" alt="">
 
                     <div class="portfolio-layer">
-                        <h4>Travel Agency</h4>
+                        <h4>Best Travel & Tours</h4>
                         <p>This is a website I plan to develop further as I work on my Travel 
                             agency project. I am excited for it as this is something I did a 
                             while back but I get to continue working on it to make it better!</p>
@@ -226,10 +228,10 @@
                 </div>
 
                 <div class="portfolio-box">
-                    <img src="images/media.png" alt="">
+                    <img src="images/coverdot.png" alt="">
 
                     <div class="portfolio-layer">
-                        <h4>Media Company</h4>
+                        <h4>Coverdot Solutions</h4>
                         <small>(To be Launched!)</small>
                         <p>This project focused on creating a website for a media company. 
                             It outlined the services they offered and also allowed for interested 
