@@ -243,6 +243,7 @@ section{
     left: 0;
     display: flex;
     align-items: center;
+    justify-content: center;
     flex-direction: column;
     color: var(--main-color);
     transform: rotate(calc(360deg / 4 * var(--i)));
@@ -857,10 +858,10 @@ section{
     position: absolute;
     bottom: 0;
     right: 0;
-    height: 55%;
+    height: 30%;
     width: auto;
     pointer-events: none;
-    margin-right: -1rem;
+    margin-right: 2rem;
     margin-bottom: 22rem;
   }
 
@@ -993,6 +994,7 @@ section{
         font-size: 2.6rem;
         color: var(--text-color);
         margin-bottom: .1rem;
+        border: red;
     }
 
     .navbar{

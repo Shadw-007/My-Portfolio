@@ -72,7 +72,7 @@
                 </div>
                 <div class="profession" style="--i:1;">
                     <i class='bx bx-data'></i>
-                    <h3>Database Admin</h3>
+                    <h3>DBT Admin</h3>
                 </div>
                 <div class="profession" style="--i:2;">
                     <i class='bx bx-laptop'></i>

@@ -29,7 +29,7 @@
             <a href="index.php#about">About</a>
             <a href="index.php#services">Services</a>
             <a href="index.php#skills">Skills</a>
-            <a href="index.php#portfolio">Portfolio</a>
+            <a href="index.php#portfolio">Certifications</a>
             <a href="index.php#contact">Contact</a>
         </nav>
 
@@ -47,22 +47,11 @@
 
         <div class="content">
             <h3>Experience</h3>
-            <p>Kindly refer to my Criteria Vitae for full details </p>
-            <div class="box">
-                <span>(02/2023 - Current)</span>
-                <h4>Co-Chief Operating Offer | Scarlet Vision - Ndola, Zambia</h4>
-                <ul>
-                    <li>Negotiating contracts and agreements to secure favourable
-                        terms and maximise profits
-                    </li>
-                    <li>Overseeing day-to-day operations for smooth operation of
-                        the company
-                    </li>
-                </ul>
-            </div>
+            <p>Kindly refer to my Curriculum Vitae for full details </p>
+            
 
             <div class="box">
-                <span>(01/2021 - Current)</span>
+                <span>(01/2021 - Present)</span>
                 <h4>Web Developer | Freelance - Zambia </h4>
                 <ul>
                     <li>Running debugging tools to eliminate flaws and glitches prior tools
@@ -73,8 +62,8 @@
             </div>
 
             <div class="box">
-                <span>(11/2021 - 12/2022)</span>
-                <h4>Sports Coordinator | Northrise University - Ndola, Zambia </h4>
+                <span>(04/2024 - 07/2024)</span>
+                <h4>Logistics Officer | Sunline International Logistics </h4>
                 <ul>
                     <li>Introduced female footbal team to university</li>
                     <li>Successfully hosted sports tournament against 3 unversities</li>
@@ -102,8 +91,8 @@
                 </div>
                 <div class="profession" style="--i:3;">
                     <i class='bx bxs-graduation'></i>
-                    <h3>Budapest Uni</h3>
-                    <small>2022-2022: Foresight Project (Exchange Programme)</small>
+                    <h3>NuYew</h3>
+                    <small>2024-Present: Cybersecurity</small>
                 </div>
 
 
@@ -114,7 +103,7 @@
         </div>
 
         <div class="edu-exp-img">
-            <img src="images/edu-exp1.png" alt="education image">
+            <img src="images/scroll.png" alt="education image">
         </div>
     </section>
     
