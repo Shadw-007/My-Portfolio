@@ -169,6 +169,42 @@
                     mindset, I conduct thorough assessments to expose potential weaknesses
                     and provide actionable insights for remediation.</p>
             </div>
+
+            <div class="services-box">
+                <i class="bx bx-code-alt"></i>
+                <h3>Software Solutions</h3>
+                <p>Bringing a blend of technical expertise and creative
+                    problem-solving to the table. Proficient in a diverse range
+                    of programming languages and frameworks, I specialize
+                    in crafting robust and scalable web solutions.
+                    With a keen eye for detail and a passion for user-centric design,
+                    I strive to deliver not just functional websites, but exceptional
+                    digital experiences.</p>
+            </div>
+
+            <div class="services-box">
+                <i class="bx bx-data"></i>
+                <h3>Hardware Solutions</h3>
+                <p> Bringing a wealth of expertise and dedication to ensuring the seamless
+                    management and optimization of your data infrastructure. Proficient in
+                    designing, implementing, and maintaining robust database systems,
+                    I specialize in enhancing performance, scalability, and security.
+                    Partner with me to unlock the full potential of your data assets, with a
+                    focus on precision, security, and performance in every aspect of database
+                    administration.</p>
+            </div>
+
+            <div class="services-box">
+                <i class="bx bx-terminal"></i>
+                <h3>OS Solutions</h3>
+                <small>(Coming Soon!)</small>
+                <p>Bringing a comprehensive approach to fortifying your digital defenses. My expertise
+                    lies in proactively identifying and addressing vulnerabilities in your
+                    systems, applications, and networks, ensuring they withstand the
+                    ever-evolving threat landscape. With a methodical and ethical hacking
+                    mindset, I conduct thorough assessments to expose potential weaknesses
+                    and provide actionable insights for remediation.</p>
+            </div>
         </div>
     </section>
     <!-- Services section ends -->
@@ -250,9 +286,9 @@
 
                 <div class="portfolio-layer">
                     <h4>Ethical Hacking</h4>
-                    <p>This certificate highlights my knowledge in utilising technical expertise to identify 
-                        vulnerabilities in computer systems, networks, and applications, simulating attacks to assess 
-                        their security posture. By evaluating potential risks and recommending mitigation strategies, 
+                    <p>This certificate highlights my knowledge in utilising technical expertise to identify
+                        vulnerabilities in computer systems, networks, and applications, simulating attacks to assess
+                        their security posture. By evaluating potential risks and recommending mitigation strategies,
                         I help organisations enhance their overall security. </p>
                     <a href="https://www.udemy.com/certificate/UC-403aaec4-8d80-4889-9639-9323022342b8/" target="_blank"><i class='bx bx-link-external'></i></a>
                 </div>

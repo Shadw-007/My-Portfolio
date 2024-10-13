@@ -68,6 +68,10 @@ body{
     margin-right: auto;
 }
 
+.navbar{
+    margin-right: -2rem;
+}
+
 .navbar a{
     position: relative;
     font-size: 1.4rem;
@@ -101,10 +105,11 @@ body{
 }
 
 #darkMode-icon{
-    font-size: 2.4rem;
+    font-size: 2.5rem;
     color: var(--white-color);
-    cursor: pointer;
-    padding-top: .5rem;
+    cursor: pointer; 
+    margin-right: -3.5rem;
+    margin-top: -.3rem;
 }
 
 .header.sticky #darkMode-icon{
@@ -116,6 +121,8 @@ body{
     font-size: 3.6rem;
     color: var(--text-color);
     display: none;
+    margin-right: -1.8rem;
+    margin-top: -.8rem;
 }
 
 /* ------ Home section ------ */
